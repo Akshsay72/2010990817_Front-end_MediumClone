@@ -8,7 +8,6 @@ import Mystory from "./Components/MyStory/Mystory";
 import Publish from "./Components/PublishStory/Publish";
 import InfoSection from "./Components/InfoSection/InfoSection";
 import AllStory from "./Components/AllStory/AllStory";
-import Footer from "./Components/HomePage/Footer";
 
 function App() {
   return (
